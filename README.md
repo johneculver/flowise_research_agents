@@ -1,2 +1,32 @@
-# flowise_research_agent
-This repository is a conversational tool built in Flowise that uses a day/date finder and the SERP API to answer basic questions.
+# Flowise Research Chatflow
+This repository contains conversational tools built in Flowise. One uses a day/date finder and the SERP API to answer basic questions. The other answers specific questions about composers of classical music.
+
+# Installation
+1. Download one of the JSON files in this repository or  locally to your device
+2. Launch Flowiseai.com in your web browser.
+3. Select the gear icon, and select **Import** 
+4. Select the JSON file you downloaded in your file explorer.
+5. Enjoy
+
+# License
+MIT License
+
+Copyright (c) 2026 John Parr-Culver
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
